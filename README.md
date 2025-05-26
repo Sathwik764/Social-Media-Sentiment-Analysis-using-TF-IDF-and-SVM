@@ -50,7 +50,7 @@ The goal of this project is to classify tweets into **positive** or **negative**
 
 ## 📈 Results Summary
 
-* Model Accuracy: \~\[Your Accuracy Here]%
+* Model Accuracy
 * Confusion matrix shows effective classification between positive and negative tweets.
 * Most influential positive words identified through model coefficients.
 
